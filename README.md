@@ -43,7 +43,7 @@ Comprendre comment les variations de température influencent les ventes de glac
 - Paradoxalement, les jours très chauds affichent des ventes plus faibles
 
 
-💡 Recommandation business
+ Recommandation business
 
 > Concentrer les efforts de stock et marketing sur les jours à température modérée (20–26°C) 
 > Adapter les canaux de distribution lors de fortes chaleurs (ex : livraisons, lieux climatisés)
